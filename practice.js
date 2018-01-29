@@ -59,8 +59,7 @@ function welcome() {
 */
 
 //Answer Here
-
-
+// Parameter is variable in the declaration of function. Argument is the actual value of this variable that gets passed to function.
 
 ////////// PROBLEM 5 //////////
 
@@ -69,7 +68,7 @@ function welcome() {
 */
 
 //Answer Here
-
+//false, 0, "", null, and undefined. You can check if something is falsy with ! (bang).
 
 
 ////////// PROBLEM 6 //////////
