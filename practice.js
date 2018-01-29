@@ -33,8 +33,7 @@ function isTyler (name){
 
 //Code Here
 function getName(){
-  let name = prompt();
-  return name;
+return prompt();
 }
 
 
@@ -48,7 +47,9 @@ function getName(){
 */
 
 //Code Here
-
+function welcome() {
+  alert(`Welcome, ${getName()}`);
+}
 
 
 ////////// PROBLEM 4 //////////
