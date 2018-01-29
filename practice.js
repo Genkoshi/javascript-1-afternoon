@@ -32,7 +32,10 @@ function isTyler (name){
 */
 
 //Code Here
-
+function getName(){
+  let name = prompt();
+  return name;
+}
 
 
 ////////// PROBLEM 3 //////////
