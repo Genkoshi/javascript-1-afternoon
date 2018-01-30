@@ -78,7 +78,7 @@ function welcome() {
 */
 
 //Code Here
-  
+  var myName = () => "Scott Abbott";
 
 
 /*
@@ -87,7 +87,7 @@ function welcome() {
 
 //Code Here
 
-
+var newMyName = () => "Scott Abbott";
 
 /*
   Now alert the result of invoking newMyName
