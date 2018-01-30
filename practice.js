@@ -104,7 +104,7 @@ var newMyName = () => "Scott Abbott";
 */
 
 //Code Here
-
+var outerFn = function(){return function(){return "Scott Abbott"}}
 
 
 /*
@@ -112,7 +112,7 @@ var newMyName = () => "Scott Abbott";
 */
 
 //Code Here
-
+var innerFn = outerFn();
 
 
 /* 
